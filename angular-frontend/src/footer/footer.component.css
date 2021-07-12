@@ -1,0 +1,29 @@
+.fa {
+    padding: 4px;
+    font-size: 19px;
+    width: 24px;
+    text-align: left;
+    text-decoration: currentColor;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
