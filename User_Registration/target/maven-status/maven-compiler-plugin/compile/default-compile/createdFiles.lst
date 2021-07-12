@@ -1,0 +1,5 @@
+com\app\UserReg\UserRegistrationApplication.class
+com\app\UserReg\Model\User.class
+com\app\UserReg\UserController\UserController.class
+com\app\UserReg\Service\UserService.class
+com\app\UserReg\Repository\UserRipository.class
